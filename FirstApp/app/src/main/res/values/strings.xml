@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="zoo">Tallinn zoo</string>
+    <string name="vst">visit Tallinn</string>
+    <string name="rmk">RMK</string>
+    <string name="air">Tallinn airport</string>
+    <string name="pic">Tallinn pictures</string>
+</resources>
