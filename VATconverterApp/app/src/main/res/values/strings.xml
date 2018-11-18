@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VATconverterApp</string>
+    <string name="ent">Enter brutto or netto</string>
+    <string name="brutto">Convert to brutto</string>
+    <string name="netto">Convert to netto</string>
+    <string name="con">Convert</string>
+    <string name="clr">Clear</string>
+</resources>
