@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PeopleApp</string>
+    <string name="nxt">Next page</string>
+    <string name="king">King picture</string>
 </resources>
