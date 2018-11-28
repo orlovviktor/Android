@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Phonebook</string>
+    <string name="code">Enter code</string>
+    <string name="city">Enter city</string>
+    <string name="clr">Clear</string>
+    <string name="ok">OK</string>
+    <string name="fname">FirstName</string>
+    <string name="lname">LastName</string>
+    <string name="addr">Address</string>
+    <string name="zip">ZIP code</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="date">Date</string>
+    <string name="title">Title</string>
+    <string name="remove">Remove</string>
+    <string name="first">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+</resources>
